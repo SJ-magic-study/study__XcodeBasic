@@ -2,7 +2,7 @@
 
 ##環境
 *	Xcode : 7.2
-*	oF : 0.9.0
+*	oF : 0.9.3
 
 ## Contents
 Xcode、openframeworks、について基本的な調査内容を記す。
